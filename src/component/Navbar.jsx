@@ -36,7 +36,7 @@ function Navbar() {
           </li>
           <li>
             <a href="#Pricing" className="hover:text-red-500">
-              Price-list
+              Price-listx
             </a>
           </li>
           <li>

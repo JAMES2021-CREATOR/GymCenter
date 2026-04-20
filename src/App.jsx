@@ -20,7 +20,6 @@ function App() {
     <Pricing/>
     <Stats/>
     <Contact/>
-    
     </>
   )
 }
